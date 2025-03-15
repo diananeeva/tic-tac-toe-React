@@ -11,7 +11,7 @@ This is a simple Tic-Tac-Toe game built using React. The project was inspired by
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/tic-tac-toe-react.git
+   git clone https://github.com/your-username/tic-tac-toe-React.git
    ```
 2. Navigate to the project directory:
    ```sh
